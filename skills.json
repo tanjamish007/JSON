@@ -1,9 +1,9 @@
 {
-	"HardSkills":{"Git Bash",
-		"Github",
-		"Postman",
-		"SQL"}
-        "SoftSkills":{"sociability",
-		"creativity",
-		"mutual assistance"}
+	"HardSkill_1":"Git Bash",
+	"HardSkill_2":"Github",
+	"HardSkill_3":"Postman",
+	"HardSkill_4":"SQL",
+        "SoftSkill_1":"sociability",
+	"SoftSkill_2":"creativity",
+	"SoftSkill_3":"mutual assistance"
 }
